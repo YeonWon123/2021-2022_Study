@@ -5,6 +5,7 @@ public class EvenAndOdd {
     public static String solution_yeonwon(int num) {
         return num % 2 == 0 ? "Even" : "Odd";
     }
+    
     public static String solution_seonghyun(int num) {
         return (num % 2 == 0) ? "Even" : "Odd" ;
     }
